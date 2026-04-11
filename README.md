@@ -56,7 +56,7 @@ practical-work/
         └── tp_map_reduce.ipynb        # MapReduce sur logs Apache
 ```
 
-## Machine Learning — DIC1 (2023/2024)
+## Machine Learning — DIC1 
 
 ### TP1 — Régression Linéaire & Vectorisation
 
